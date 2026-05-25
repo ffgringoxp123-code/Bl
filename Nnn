@@ -1331,7 +1331,7 @@ getgenv().swordAnimations = ""
 getgenv().swordFX = ""
 getgenv().AutoVote = false
 
-local BobitUI = loadstring(game:HttpGet("https://pastefy.app/IP02ccmp/raw"))()
+local Isotopia = loadstring(game:HttpGet("https://raw.githubusercontent.com/azurelw/isotopia/refs/heads/main/loader.lua"))()
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")

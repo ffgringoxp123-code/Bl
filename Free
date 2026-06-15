@@ -1331,7 +1331,7 @@ getgenv().swordAnimations = ""
 getgenv().swordFX = ""
 getgenv().AutoVote = false
 
-local BobitUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ffgringoxp123-code/Bl/refs/heads/main/Jhb"))()
+local BobitUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ffgringoxp123-code/gui/refs/heads/main/KittylolGuI_UI.lua"))()
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
